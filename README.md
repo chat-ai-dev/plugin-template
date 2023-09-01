@@ -7,7 +7,7 @@ This repository is the template to automate the release of official Deep AI plug
 ## Usage
 
 1. Create a new repository clicking on the `Use this template` button.
-2. Clone your new repo directly in the Bot's `plugins` folder.
+2. Clone your new repo directly in the Bot's `storage/plugins` folder.
 3. Run the `setup.py` script:
     ```bash
     python setup.py
